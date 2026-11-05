@@ -6,8 +6,8 @@ import type { Task, TaskInput, FilterType } from "./types";
 const appName: string = import.meta.env.VITE_APP_NAME ?? "Daftar Tugas";
 const appVersion: string = import.meta.env.VITE_APP_VERSION ?? "0.0.0";
 const courseName: string = import.meta.env.VITE_COURSE_NAME ?? "Mata Kuliah";
-const userName: string = import.meta.env.VITE_USER_NAME ?? "Mahasiswa";
-const userRole: string = import.meta.env.VITE_USER_ROLE ?? "Mahasiswa";
+const userName: string = import.meta.env.VITE_USER_NAME ?? "Ahmad Riyadh Fawwaz";
+const userRole: string = import.meta.env.VITE_USER_ROLE ?? "1247050114";
 
 // Primitive types + array
 const STORAGE_KEY: string = "tugas-kuliah-v2";
