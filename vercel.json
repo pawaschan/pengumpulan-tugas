@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/pengumpulan-tugas/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/pengumpulan-tugas/:path*", "destination": "/:path*" },
+    { "source": "/pengumpulan-tugas", "destination": "/index.html" }
+  ]
+}
